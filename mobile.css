@@ -1,0 +1,15 @@
+@media only screen and (max-width: 850px) {
+    
+    .lomake {
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        margin: 30px;
+    }
+
+    .kaverilista {
+        padding-left: 40px;
+        padding-top: 200px;
+    }
+  }
+  
