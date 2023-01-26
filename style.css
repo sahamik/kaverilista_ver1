@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+.lomake {
+    position: absolute;
+    display: flex;
+    margin: 0px 40%;
+    font-family: sans-serif;
+}
+
+.kaverilista {
+    font-family: sans-serif;
+    padding-left: 40px;
+}
